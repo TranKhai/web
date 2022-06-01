@@ -11,7 +11,7 @@ function Login() {
       <br />
       <input type="password" id="pass" placeholder="Vui lòng nhập mật khẩu"/>
       <br/>
-      <button>Đăng nhập</button>
+      <button >Đăng nhập</button>
       <br/>
       <Link to='/signin'><button>Đăng ký</button></Link>
     </div>
