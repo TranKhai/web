@@ -36,28 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.login{
-  text-align: center;
-  margin-top: 10%;
-}
-.login input{
-  margin: 5px;
-  font-size: 25px;
-  border-radius: 5px;
-  margin-bottom: 10px;
-  width: 30%;
-  height: 40px;
-}
-.login button{
-  width: 40%;
-  height: 40px;
-  border-radius: 10px;
-  background-color: cadetblue;
-  font-size: 30px;
-  color: azure;
-  margin-top: 10px;
-}
-.login button:hover{
-  background-color: aqua;
-  color: black;
-}
